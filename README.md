@@ -1,7 +1,7 @@
 # Exercise-01b-Prompt-and-Response
 Exercise for MSCH-C220, 26 August 2021
 
-A demonstration of this exercise is available here: [https://youtu.be/O1lcQZpKMRM](https://youtu.be/O1lcQZpKMRM).
+A demonstration of this exercise is available at [https://youtu.be/O1lcQZpKMRM](https://youtu.be/O1lcQZpKMRM).
 
 This exercise is an opportunity for you to create your (perhaps) first program in Python. The purpose of this exercise is to make sure your python setup is working appropriately and then give you the first step toward completing Project 01.
 
